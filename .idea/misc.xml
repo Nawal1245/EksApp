@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/custom_progress_bar.xml" value="0.1365" />
+        <entry key="app/src/main/res/layout/Edit_profile.xml" value="0.115625" />
+        <entry key="app/src/main/res/layout/activity_custom_progressbar.xml" value="0.2545289855072464" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dashboard.xml" value="0.190386962890625" />
+        <entry key="app/src/main/res/layout/edit_profile.xml" value="0.10985260009765624" />
+        <entry key="app/src/main/res/layout/followers_screen.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/login_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/product_descrption.xml" value="0.1015625" />
+        <entry key="app/src/main/res/layout/product_detail.xml" value="0.12487335359675786" />
+        <entry key="app/src/main/res/layout/splash_screen.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/splashscreen.xml" value="0.10776699029126213" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

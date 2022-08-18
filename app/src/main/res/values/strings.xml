@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Eks</string>
+    <string name="BackArrow">Back Arrow</string>
+    <string name="Profile_name">Martin Bags</string>
+    <string name="Profile_handle">\@luxBags</string>
+    <string name="Bio">Authentic Second Hand Luxury Bags!</string>
+    <string name="Followers">20K Followers</string>
+    <string name="Followers_title">Followers</string>
+    <string name="items_sold">267 items sold</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="Dashboard">My Dashboard</string>
+    <string name="change_profile_pic">Change My Profile Picture</string>
+    <string name="change_banner">Change My Banner</string>
+    <string name="business_name">Business Name</string>
+    <string name="Bio_description">Biography</string>
+    <string name="social_media">Social Media</string>
+    <string name="working_hours">Working Hours</string>
+    <string name="Total_sales">Total Sales</string>
+    <string name="Sold_items">Items Sold</string>
+    <string name="Revenue">Revenue</string>
+    <string name="Cost">Cost</string>
+    <string name="Profit">Profit</string>
+    <string name="total_sales">120 OMR</string>
+    <string name="username">Username</string>
+    <string name="Password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="no_image">No image selected</string>
+    <string name="image_selected">you selected an image!</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="Description">Description</string>
+    <string name="Price">Price</string>
+
+
+
+
+
+
+
+</resources>

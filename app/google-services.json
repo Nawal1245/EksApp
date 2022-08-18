@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410538577324",
+    "project_id": "ekspansionapp",
+    "storage_bucket": "ekspansionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410538577324:android:3a2a06d72d3418c3087e09",
+        "android_client_info": {
+          "package_name": "com.ekspansion.eks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410538577324-h1j02pjhipha7i3brndkj0d1adp5qhsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMp079XMgdzibIBKHhEd8rJPrAcMorcKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410538577324-h1j02pjhipha7i3brndkj0d1adp5qhsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
