@@ -5,11 +5,13 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.provider.MediaStore
 import android.widget.Button
+import android.widget.ImageView
 import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.widget.AppCompatImageButton
 import androidx.compose.ui.graphics.Color
+import coil.load
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 class MainActivity : AppCompatActivity() {
@@ -23,6 +25,8 @@ class MainActivity : AppCompatActivity() {
         }
         val image = result.data!!.data
         Toast.makeText(applicationContext,R.string.image_selected,Toast.LENGTH_SHORT ).show()
+        findViewById<ImageView>(R.id.imageView2).load(image){
+        }
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {

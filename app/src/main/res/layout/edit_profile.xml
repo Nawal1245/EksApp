@@ -12,12 +12,14 @@
         android:layout_height="100dp">
 
         <ImageView
+            android:id="@+id/imageView11"
             android:layout_width="125dp"
             android:layout_height="match_parent"
             android:src="@drawable/profile"
             tools:ignore="contentDescription" />
 
         <Button
+            android:id="@+id/btn_changePic"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="end|center_vertical"
@@ -48,6 +50,7 @@
             tools:ignore="contentDescription" />
 
         <Button
+            android:id="@+id/btn_changeBanner"
             android:layout_width="239dp"
             android:layout_height="wrap_content"
             android:layout_gravity="end|center_vertical"
@@ -86,7 +89,8 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@color/light_grey"/>
+                android:background="@color/light_grey"
+                android:inputType="text"/>
         </LinearLayout>
 
     </LinearLayout>
